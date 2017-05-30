@@ -1,6 +1,6 @@
 # HospitalApplication: A work on RESTful API + Angular.js
 
-## Delay in Start of Work. Currently working on developing my website. You can get an account of my work at https://github.com/VishwanathGajavelly/JavaSquare_SpringMVC_Hibernate. Will start this project in no-time once i'm done with that.
+### Interrupted: Currently working on developing my website. You can get an account of my work at https://github.com/VishwanathGajavelly/JavaSquare_SpringMVC_Hibernate. Will start this project in no-time once i'm done with that.
 
 ## author: Vishwanath Gajavelly
 
